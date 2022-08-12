@@ -2,6 +2,7 @@
  
  Spring boot api
  
+ start application and hit following url to access api 
  http://localhost:8090/path/swagger-ui/index.html#/path-rest-controller/generatePathsUsingPOST
  
  Json format
